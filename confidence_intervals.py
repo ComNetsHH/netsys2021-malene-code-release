@@ -4,10 +4,10 @@
 #   https://github.com/ComNetsHH/netsys2021-malene-code-release
 #
 #     Copyright (C) 2021  Institute of Communication Networks, 
-# 			  	          Hamburg University of Technology,
-# 			  	          https://www.tuhh.de/comnets
-# 			  	(C) 2021  Sebastian Lindner, 
-# 			  	          sebastian.lindner@tuhh.de
+#                         Hamburg University of Technology,
+#                         https://www.tuhh.de/comnets
+#               (C) 2021  Sebastian Lindner, 
+#                         sebastian.lindner@tuhh.de
 #
 #     This program is free software: you can redistribute it and/or modify
 #     it under the terms of the GNU General Public License as published by
@@ -21,7 +21,6 @@
 #
 #     You should have received a copy of the GNU General Public License
 #     along with this program.  If not, see <https://www.gnu.org/licenses/>.
-
 
 import numpy as np
 from scipy import mean
