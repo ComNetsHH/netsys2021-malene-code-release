@@ -1,6 +1,9 @@
 # Time- and Frequency-Domain Dynamic Spectrum Access: Learning Cyclic Medium Access Patterns in Partially Observable Environments
 Open source code release for the publication at NetSys 2021, September 2021 in Lübeck, Germany.
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5195407.svg)](https://doi.org/10.5281/zenodo.5195407)
+
+
 ## Instructions
 Each Python `.py` file performs a simulation and saves results into a corresponding `_data/<generated_name>.json` file. 
 These are then parsed by the same Python script to create a graph in `_imgs/<generated_name>.pdf`.  
